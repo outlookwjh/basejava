@@ -16,7 +16,7 @@ public class specConvert {
             String s1 = br.readLine();
             System.out.println(s1);
         } catch (IOException e) {
-            e.printStackTrace();
+            e.printStackTrace ();
         }
 
 
